@@ -37,8 +37,12 @@ return(
    </div>
     <Tabs>
     <Tab title="25" > Tab1 Content</Tab>
-    <Tab title="150" > Tab2 Content</Tab>
-    <Tab title="200" > Tab3 Content</Tab>
+    <Tab title="50" > Tab2 Content</Tab>
+
+    <Tab title="150" > Tab3 Content</Tab>
+    <Tab title="200" > Tab4 Content</Tab>
+    <Tab title="400" > Tab5 Content</Tab>
+
     </Tabs>
   </>
   );
